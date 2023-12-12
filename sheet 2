@@ -4,5 +4,5 @@ Accessing Path Parameters - use appropriate name in pathParameter,destructuring 
 Query Formatting - using embeddes for parameters ${}
 Replacing SQLite Methods - use get,all,run accordingly
 HTTP Request URL: Missing '?' , Missing ‘&’ between Query Parameters , Replacing '&' with ',' in Query Parameters
-Accessing Unknown Database - cli database accesss with correct name
+Accessing Unknown Database - cli database accesss with correct name/ other wise new database created
 Accessing Wrong Port Number - requesting in asssigned port
