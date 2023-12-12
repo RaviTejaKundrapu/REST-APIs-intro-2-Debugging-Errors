@@ -1,0 +1,8 @@
+Request Methods - use of get,put,post,delete accordingly in both http file and index.js
+Missing colon(:) - missing : for path parameter
+Accessing Path Parameters - use appropriate name in pathParameter,destructuring request.params, query
+Query Formatting - using embeddes for parameters ${}
+Replacing SQLite Methods - use get,all,run accordingly
+HTTP Request URL: Missing '?' , Missing ‘&’ between Query Parameters , Replacing '&' with ',' in Query Parameters
+Accessing Unknown Database - cli database accesss with correct name
+Accessing Wrong Port Number - requesting in asssigned port
