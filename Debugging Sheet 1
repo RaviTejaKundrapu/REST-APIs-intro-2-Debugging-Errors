@@ -1,0 +1,8 @@
+Debugging Common Errors :1
+-----------------------------
+1. Importing Unknown Modules - doing mistakes in like expressss vs express in require("express")
+2. Starting Server in Multiple Terminals - 1.ctrl+c 2. lsof -i :3000  3.kill -9 pid
+3. Starting Server outside the myapp - working/executions outside of the project folder will not effect in project folder 
+4. Accessing Wrong URL - path in method while writing VS HTTP file 
+5. Missing Function Call - missing()
+6. Importing Unknown File - db related
